@@ -3,7 +3,7 @@
 """
 Created on Sun Sep 17 16:15:53 2023
 
-@author: marysia
+@author: Maria
 """
 
 import os 
