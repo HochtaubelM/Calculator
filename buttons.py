@@ -3,7 +3,7 @@
 """
 Created on Sun Sep 17 20:00:46 2023
 
-@author: marysia
+@author: Maria
 """
 
 from customtkinter import CTkButton
